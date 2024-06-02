@@ -28,7 +28,7 @@
       "value": ""
     },
      "HKEY": {
-      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "description": "https://guru-bot-0xv1.onrender.com",
       "required": true,
       "value": ""
     },
