@@ -13,9 +13,9 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "PRXKXVT4",
+      "description": "VD9YAKMB",
       "required": true,
-      "value": ""
+      "value": "VD9YAKMB"
     },
     "MODE": {
       "description": "mode public or private",
@@ -30,7 +30,7 @@
      "HKEY": {
       "description": "https://guru-bot-0xv1.onrender.com",
       "required": true,
-      "value": ""
+      "value": "https://guru-bot-0xv1.onrender.com"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
